@@ -1,0 +1,7 @@
+id,owner,name,address,latitude,longitude,price,bedrooms,bathrooms,amenities,image_url
+1,Mirriam,Apartment A,Nairobi,-1.283,36.821,35000,2,1,"wifi,parking","https://via.placeholder.com/300"
+2,Kelvin,House B,Nakuru,-0.303,36.080,45000,3,2,"garden,parking","https://via.placeholder.com/300"
+3,Antony,Studio C,Kisumu,-0.091,34.767,20000,1,1,"wifi","https://via.placeholder.com/300"
+4,Mercy,Apartment D,Eldoret,0.520,35.270,30000,2,1,"furnished,wifi","https://via.placeholder.com/300"
+5,Beth,Sample Listing,Mombasa,-4.043,39.668,40000,3,2,"pool,ac","https://via.placeholder.com/300"
+6,Edwin,Sample Listing 2,Embu,-0.533,37.448,25000,1,1,"wifi","https://via.placeholder.com/300"
