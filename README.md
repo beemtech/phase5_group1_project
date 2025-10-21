@@ -55,8 +55,35 @@ This notebook (`HomeMatch_Model_Notebook_v15_with_FeatureImportance.ipynb`) cove
   - `scikit-learn` — Machine learning algorithms and metrics  
   - `xgboost` — Gradient boosting model  
   - `joblib` or `pickle` — Model serialization  
+  - `Stream.io` — used in creating the app but needs some modification  
 
 ---
+
+
+
+
+## Modification of the app  
+
+- **Python 3.x**  
+- **Libraries:**  
+  - Add authentication part  
+  - Add security features for both users  `client` and `landlord`  
+  - Better user interface  
+  - Add Tenant panel `view houses \ search` and Landlord panel `to add houses with features`
+  - Add Mysql and csv file for data storage
+
+---
+
+
+
+##  What the app has  
+
+- **Stream.io**  
+  - Search houses by (filter) price, location name, bedroom, bathrooms, amenities, longitude/latitude.
+  - able to view houses `all listings either by dataframe or grid`, view saved homes, view browsed/searched homes. 
+
+---
+
 
 ## ⚙️ Setup and Usage  
 
